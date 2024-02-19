@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useState } from 'react'
+import { useEffect, useState } from 'react'
 import './App.css'
 import FieldText from './components/Input'
 import { Todo, useStorage } from './hooks/useStorage'
